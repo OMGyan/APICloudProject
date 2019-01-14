@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg.png",
+        "source": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg3.png",
+        "source": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg3.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg0.png",
+        "source": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg0.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg2.png",
+        "source": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg2.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_cus_refresh_default.png",
+        "source": "E:\\APICloudModuleSDK\\moduleRefresh\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_cus_refresh_default.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg1.png",
+        "source": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mo_scrollpicture_img_switcher_bg1.png"
+    }
+]

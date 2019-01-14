@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\libs\jingchen.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b98920e8d7ce555e8ef95bf444139eca4f3d06f">
+        <dex dex="E:\APICloudModuleSDK\app\build\intermediates\transforms\dex\debug\folders\1000\8\jingchen_a74c124f35de1c4c1f23cb6b93c2d9cc09767b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\67bea74accc8ba9d247d262315d354f307d8c2a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_75187aaca31e725dba2f602f815f21d74a916d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0d82ae13e5ebc65c445874d46a135707c5abe01c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_cb7426c54215870e88a3701652f8f85619018226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\66e521bec1eae0c73489438b19cf396ea4ff739f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_28da2165bd171fbdff1c0a55259da30753ef862f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\APICloudModuleSDK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="E:\APICloudModuleSDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d88f65f70d8b93ad828eca97ef1e7dc0537e517c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\82961efde0a085602aedacf340d9edd991f8679d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_a734efed02c1efdc9e6bbf9eac68bab8cc5043dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ccac686c4a793e85ff5e021ef111417f9b8af22c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_deba83dde2904ede3310a157daf6f13fd8d79cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7bc5c26a2af1a06316dc6d103a23063fbb3b7276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_80622a565a32349cabf3bf31deab602c8f4b8ca7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\APICloudModuleSDK\app\libs\apiEngine v1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386d946954a2a3732566f32fdb9f436fac7fe9ca">
+        <dex dex="E:\APICloudModuleSDK\app\build\intermediates\transforms\dex\debug\folders\1000\2\apiEngine v1.1.0_f1e1351835a7083f6e4db2b96587427255addcdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a701611cf208d7efecd036f726a9048ee1501e63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_0cb2caa1fb3128e365b3b0e66524f358cec38a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_6efba71d3cc56c52514f10345b6030ccb220bca0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b4aa93ea9524a36cdd8dc13c1a889a03116f1d7">
+        <dex dex="E:\APICloudModuleSDK\app\build\intermediates\transforms\dex\debug\folders\1000\8\glide-3.7.0_3a4235832a3f654bdc70bf80b2e48d32c8c6dd2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.2\bfc967828daffc35ba01c9ee204d98b664930a0f\constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.2_864cd371aaacbc193e446097a9301068008b5c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a4b5b86500b76772e0f451ee3667ac01ec297a84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_a5a02aca7a1eaa70ba43c2e03eb8512636b098b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2281fcc15c6366e06ad210f61e818663747ff4a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_d9bf9c99a9b2ee6c56a198ebc3f9bb554e95de14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\APICloudModuleSDK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14cc9ecee4bd037c3d49be911d4d037f80a82b72">
+        <dex dex="E:\APICloudModuleSDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c8fcfff8fdc39d8391ef8fc3d70a10f80b1a4fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d4285901789305130fa84cc678dcea3e14a9b281\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="E:\APICloudModuleSDK\myapplication\build\intermediates\pre-dexed\debug\classes_ad20118840e6c781ca794b6396edc1af82e59b9d.jar" />
+    </item>
+
+</items>

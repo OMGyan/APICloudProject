@@ -1,0 +1,7 @@
+int drawable mo_nfc_bg 0x7f020000
+int id btn 0x7f050001
+int id text 0x7f050000
+int layout mo_demo_main_activity 0x7f030000
+int layout mo_modulenfc_main_activity 0x7f030001
+int string app_name 0x7f040000
+int string modulenfc_activity_texttip 0x7f040001

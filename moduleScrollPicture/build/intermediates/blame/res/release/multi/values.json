@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\APICloudModuleSDK\\moduleScrollPicture\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\moduleScrollPicture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 56,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    }
+]

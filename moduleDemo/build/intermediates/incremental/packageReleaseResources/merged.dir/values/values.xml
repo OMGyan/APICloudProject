@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">moduleDemo</string>
+    <string name="modulenfc_activity_texttip">请将NFC标签卡靠近手机背面进行识别</string>
+</resources>

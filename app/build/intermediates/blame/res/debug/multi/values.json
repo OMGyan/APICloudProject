@@ -1,0 +1,218 @@
+[
+    {
+        "outputFile": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFUniversalPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 41,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\app\\src\\main\\res\\values\\mo_engine_values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 41,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 45,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 45,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 48,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 48,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 56,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 56,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 73,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 73,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 36,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 36,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 43,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 43,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 46,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 46,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 46,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 46,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "E:\\APICloudModuleSDK\\app\\src\\main\\res\\values\\mo_engine_values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 710
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+	"modules":[
+		{
+			"name":"eas",
+			"class":"com.apicloud.eventdemo.EasDelegate"
+		},
+		{
+			"name":"moduleDemo",
+			"class":"com.apicloud.moduleDemo.APIModuleDemo"
+		},
+		{
+			"name":"scrollPicture",
+			"class":"com.apicloud.moduleScrollPicture.ModuleScrollPicture"
+		},
+		{
+			"name":"syncModule",
+			"class":"com.apicloud.syncInterface.SyncModule"
+		},
+		{
+			"name":"cusHeader",
+			"class":"com.apicloud.moduleRefresh.CusRefreshHeader"
+		},
+		{
+			"name":"zFNfc",
+			"class":"com.kbs.zfnfc.KBSNfc"
+		},
+		{
+			"name":"zFPrinter",
+			"class":"com.kbs.zfprinter.KBSPrinter"
+		},
+		{
+			"name":"zFUniversalPrinter",
+			"class":"com.kbs.zfuniversalprinter.KBSUniversalPrinter"
+		}
+	]
+}

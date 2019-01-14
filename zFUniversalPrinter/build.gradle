@@ -1,0 +1,41 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+    }
+
+//    buildTypes {
+//        release {
+//            minifyEnabled false
+//        }
+//    }
+//    buildTypes {
+//        debug {
+//            minifyEnabled false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//        }
+//
+//        release {
+//            minifyEnabled true
+//            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+//        }
+//    }
+//    repositories {
+//        flatDir {
+//            dirs 'libs'
+//        }
+//    }
+
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    provided files('../app/libs/apiEngine v1.1.0.jar')
+    provided files('../app/libs/android-support-v4-25.4.0.jar')
+}

@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:5:29-54
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:7:5-8:40
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\ad12902bd4b6210556beff3d2e6be3369bed222d\output\AndroidManifest.xml:18:5-42
+MERGED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [APICloudModuleSDK:moduleScrollPicture:unspecified] E:\APICloudModuleSDK\moduleScrollPicture\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\b5cf571519dc3807c1b3a1bce80be546513c678c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\227867ccf310dc1bdeca840eee82f3f1fe1ee91b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9a42901301278a154f7b76d138528972b58c83ba\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9262d5a0e934b0c078f0ce4ecd0d347d320286\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\56065a606192ebb86e9e6f4c4d5881985d3c74f0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [APICloudModuleSDK:moduleSyncInterface:unspecified] E:\APICloudModuleSDK\moduleSyncInterface\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [APICloudModuleSDK:moduleRefresh:unspecified] E:\APICloudModuleSDK\moduleRefresh\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [APICloudModuleSDK:moduleAppdelegate:unspecified] E:\APICloudModuleSDK\moduleAppdelegate\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+		INJECTED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:7:15-40
+supports-screens
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:10:5-16:40
+	android:largeScreens
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:12:9-36
+	android:smallScreens
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:13:9-37
+	android:xlargeScreens
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:16:9-37
+	android:resizeable
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:14:9-34
+	android:anyDensity
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:11:9-34
+uses-permission#android.permission.INTERNET
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:18:5-67
+MERGED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:15:5-67
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:16:5-79
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:22:5-66
+MERGED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:23:22-72
+application
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:25:5-46:19
+MERGED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:19:5-36:19
+MERGED from [APICloudModuleSDK:moduleScrollPicture:unspecified] E:\APICloudModuleSDK\moduleScrollPicture\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\b5cf571519dc3807c1b3a1bce80be546513c678c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\227867ccf310dc1bdeca840eee82f3f1fe1ee91b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9a42901301278a154f7b76d138528972b58c83ba\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9262d5a0e934b0c078f0ce4ecd0d347d320286\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\56065a606192ebb86e9e6f4c4d5881985d3c74f0\output\AndroidManifest.xml:29:5-20
+MERGED from [APICloudModuleSDK:moduleSyncInterface:unspecified] E:\APICloudModuleSDK\moduleSyncInterface\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [APICloudModuleSDK:moduleRefresh:unspecified] E:\APICloudModuleSDK\moduleRefresh\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:18:5-29:19
+MERGED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:18:5-22:19
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:18:5-22:19
+	android:label
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:22:9-35
+	android:hardwareAccelerated
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:26:9-36
+		REJECTED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:20:9-35
+		REJECTED from [APICloudModuleSDK:moduleScrollPicture:unspecified] E:\APICloudModuleSDK\moduleScrollPicture\build\intermediates\bundles\default\AndroidManifest.xml:12:9-35
+		REJECTED from [APICloudModuleSDK:moduleSyncInterface:unspecified] E:\APICloudModuleSDK\moduleSyncInterface\build\intermediates\bundles\default\AndroidManifest.xml:12:9-35
+		REJECTED from [APICloudModuleSDK:moduleRefresh:unspecified] E:\APICloudModuleSDK\moduleRefresh\build\intermediates\bundles\default\AndroidManifest.xml:12:9-35
+		REJECTED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:19:9-35
+		REJECTED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:19:9-35
+		REJECTED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:27:9-41
+	android:largeHeap
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:29:9-33
+	tools:replace
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:25:18-66
+meta-data#uz_version
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:33:9-70
+	android:value
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:33:46-67
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:33:20-45
+activity#com.uzmap.pkg.EntranceActivity
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:35:9-45:20
+	android:screenOrientation
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:40:13-122
+	android:theme
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:36:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\APICloudModuleSDK\app\src\main\AndroidManifest.xml:43:27-74
+uses-permission#android.permission.NFC
+ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:13:5-62
+MERGED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:13:22-59
+uses-feature#android.hardware.nfc
+ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:15:5-17:35
+MERGED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:16:9-44
+activity#com.apicloud.moduleDemo.DemoActivity
+ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:23:9-28:52
+	android:screenOrientation
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:26:13-49
+	android:configChanges
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:25:13-55
+	tools:targetApi
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:27:13-81
+	android:name
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:24:13-64
+activity#com.apicloud.moduleDemo.KBSNfcActivity
+ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:29:9-35:52
+	android:screenOrientation
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:33:13-49
+	android:launchMode
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:32:13-43
+	android:configChanges
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:31:13-55
+	tools:targetApi
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:34:13-81
+	android:name
+		ADDED from [APICloudModuleSDK:moduleDemo:unspecified] E:\APICloudModuleSDK\moduleDemo\build\intermediates\bundles\default\AndroidManifest.xml:30:13-66
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\b5cf571519dc3807c1b3a1bce80be546513c678c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\227867ccf310dc1bdeca840eee82f3f1fe1ee91b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9a42901301278a154f7b76d138528972b58c83ba\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9262d5a0e934b0c078f0ce4ecd0d347d320286\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\56065a606192ebb86e9e6f4c4d5881985d3c74f0\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ad0ccce2f129295f9f1c684edb3f7c24f54748e2\output\AndroidManifest.xml:26:9-47
+activity#com.kbs.zfnfc.KBSNfcActivity
+ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:22:9-28:52
+	android:screenOrientation
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:25:13-43
+	android:configChanges
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:24:13-55
+	tools:targetApi
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:27:13-81
+	android:name
+		ADDED from [APICloudModuleSDK:zFNfc:unspecified] E:\APICloudModuleSDK\zFNfc\build\intermediates\bundles\default\AndroidManifest.xml:23:13-56
+uses-permission#android.permission.BLUETOOTH
+ADDED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:12:5-68
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:13:5-74
+MERGED from [APICloudModuleSDK:zFUniversalPrinter:unspecified] E:\APICloudModuleSDK\zFUniversalPrinter\build\intermediates\bundles\default\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [APICloudModuleSDK:zFPrinter:unspecified] E:\APICloudModuleSDK\zFPrinter\build\intermediates\bundles\default\AndroidManifest.xml:13:22-71

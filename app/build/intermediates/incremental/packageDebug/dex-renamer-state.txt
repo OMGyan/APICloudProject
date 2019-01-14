@@ -1,0 +1,7 @@
+#Mon Jan 14 13:55:59 CST 2019
+base.0=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c8fcfff8fdc39d8391ef8fc3d70a10f80b1a4fb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d88f65f70d8b93ad828eca97ef1e7dc0537e517c\\classes.dex
+base.1=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d88f65f70d8b93ad828eca97ef1e7dc0537e517c
+file.0=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c8fcfff8fdc39d8391ef8fc3d70a10f80b1a4fb\\classes.dex

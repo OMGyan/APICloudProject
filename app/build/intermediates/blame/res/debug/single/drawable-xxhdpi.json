@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\uz_splash_bg.png",
+        "source": "E:\\APICloudModuleSDK\\app\\src\\main\\res\\drawable-xxhdpi\\uz_splash_bg.png"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\uz_icon.png",
+        "source": "E:\\APICloudModuleSDK\\app\\src\\main\\res\\drawable-xxhdpi\\uz_icon.png"
+    }
+]

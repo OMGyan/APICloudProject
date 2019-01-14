@@ -1,0 +1,4 @@
+#Mon Jan 14 10:30:54 CST 2019
+base.0=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=E\:\\APICloudModuleSDK\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

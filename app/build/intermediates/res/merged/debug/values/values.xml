@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_black">#000000</color>
+    <string name="app_name">模块开发</string>
+    <string name="connect_fail">连接失败</string>
+    <string name="connect_success">连接成功</string>
+    <string name="default_printer_name">B3_6988</string>
+    <string name="modulenfc_activity_texttip">请将NFC标签卡靠近手机背面进行识别</string>
+    <string name="print">打印</string>
+    <string name="print_fail">打印失败</string>
+    <string name="print_success">打印成功</string>
+    <string name="start_connect">开始连接</string>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+</resources>

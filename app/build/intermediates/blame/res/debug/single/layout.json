@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mo_modulenfc_main_activity.xml",
+        "source": "E:\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\bundles\\default\\res\\layout\\mo_modulenfc_main_activity.xml"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mo_demo_main_activity.xml",
+        "source": "E:\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\bundles\\default\\res\\layout\\mo_demo_main_activity.xml"
+    },
+    {
+        "merged": "E:\\APICloudModuleSDK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer_img.xml",
+        "source": "E:\\APICloudModuleSDK\\zFPrinter\\build\\intermediates\\bundles\\default\\res\\layout\\printer_img.xml"
+    }
+]
